@@ -7,8 +7,13 @@ adding a countdown timer and linking it to a progress view and finally learning 
 Topics learnt:
 
 ¬ Swift Collection types - Dictionaries
+
 ¬ The Swift Timer API
+
 ¬ Conditional statements - If/Else
+
 ¬ Conditional statements - Switch
+
 ¬ Functions with outputs
+
 ¬ How to use the ProgressView
